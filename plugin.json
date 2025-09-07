@@ -1,0 +1,9 @@
+{
+  "id": "acode.vscode.hinticons.advanced",
+  "name": "VSCode Hint Icons Advanced",
+  "version": "1.0.0",
+  "author": "Lonmethgkhoi",
+  "main": "main.js",
+  "icon": "icon.png",
+  "description": "Full bộ VS Code hint icons, tự phân tích ngữ cảnh code trong Acode"
+}
